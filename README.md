@@ -51,3 +51,5 @@ $ learn spec/02_shoe_spec.rb
 ```
 
 Happy coding!
+
+https://github.com/G3o-R/phase-3-ruby-oo-basics-putting-the-pieces-together-lab
